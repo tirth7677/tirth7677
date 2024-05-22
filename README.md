@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tirth-malli-143144211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tirth-malli" height="30" width="40" /></a>
-<a href="https://instagram.com/tirth__33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tirth_333" height="30" width="40" /></a>
-<a href="https://dribbble.com/tirth-malli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="tirth-malli" height="30" width="40" /></a>
+<a href="https://instagram.com/tirth___33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tirth_333" height="30" width="40" /></a>
+<a href="https://dribbble.com/Tirth_333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="tirth-malli" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
